@@ -1,4 +1,4 @@
- # <h1 align="center">Hii Friend   💝</h1>
+ # <h1 align="center">Hii Friend  </h1>
 
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Noor+Jahan!;Full+Stack-Web+Developer...;" style="width: 100%;">
