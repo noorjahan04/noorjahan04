@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=&amp;size=18&amp;lines=Hey!+It's+Noor+Jahan!;Full+Stack-Web+Developer...;" style="width: 100%;">
  <h1 align="center">🗽Hello Everyone 🗽</h1>
 
-
+ <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
 
 <div  >
 # Hi, I'm Noor Jahan! 👋
