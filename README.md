@@ -5,7 +5,7 @@
  <h1 align="center">🗽Hello Everyone 🗽</h1>
 
 
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif"/>
+
 <div  >
 # Hi, I'm Noor Jahan! 👋
 
