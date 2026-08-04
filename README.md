@@ -16,11 +16,11 @@ I'm a passionate developer with a love for Full-Stack Web Development.
 💬 Ask me about my expertise in **Front-End** ,**back-End** development, or if you have any questions, feel free to reach out.
 
 ### My Portfolio
-🚀 Check out some of my projects in my [Portfolio](https://noor-jahan.vercel.app/).
+🚀 Check out some of my projects in my [Portfolio](https://noor-jahan-portfolio.vercel.app/).
 🚀 GitHub Profile [GitHub](https://github.com/noorjahan04)
 
 ### My Experience
-📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/1AzsqdXuUc5UsaZlQDffaj6fM-9jOBCdX/view?usp=sharing).
+📄 Learn more about my professional journey by viewing my [resume](https://drive.google.com/file/d/1PJUdWXC-1p3rgcWkXZUhjHeQuIOeJGej/view).
 
 ### Get in Touch
 📧 You can reach me at **noorifms@gmail.com**. Feel free to drop me a message or collaborate on exciting projects.
