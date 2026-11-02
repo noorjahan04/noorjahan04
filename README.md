@@ -22,9 +22,11 @@
 <tr>
 <td width="60%" valign="middle">
 
-<p>I'm a passionate developer with a love for <b>Full-Stack Web Development</b>.</p>
+<p>I'm a passionate developer who loves building end-to-end web applications.</p>
 
-<p>🌱 &nbsp;Currently learning and exploring new technologies in Full-Stack Web Development.</p>
+<p>💼 &nbsp;Currently working as a <b>Full Stack Developer</b>, building responsive and scalable web applications.</p>
+
+<p>🌱 &nbsp;Currently learning <b>Artificial Intelligence &amp; Machine Learning (AI/ML)</b> and exploring how to bring them into real-world applications.</p>
 
 <p>💬 &nbsp;Ask me about my expertise in <b>Front-End</b> and <b>Back-End</b> development, or reach out if you have any questions.</p>
 
